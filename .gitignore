@@ -1,0 +1,4 @@
+.env
+thumbnails/
+__pycache__/
+.venv/
